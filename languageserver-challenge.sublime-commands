@@ -1,0 +1,4 @@
+[
+    { "caption": "Go To Definition", "command": "go_to_definition" },
+    { "caption": "Find First Reference", "command": "find_first_reference" }
+]
